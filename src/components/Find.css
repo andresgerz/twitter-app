@@ -1,16 +1,16 @@
-.navbar-wrapper {
+.navbarWrapper {
     max-width: 40.1rem;
     background-color: #D9EDF7;
     height: 70px;
 }
 
 
-.find-text {
+.findText {
     width: calc(100% - 75px);    
 }
 
 
-.find-button {
+.findButton {
     width: 35px;
     height: 35px;
 }
